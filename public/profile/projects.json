@@ -1,0 +1,108 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/portfolio-poster.png",
+            "title": "Dev Portfolio",
+            "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/mayankagarwal09/dev-portfolio"
+                },
+                {
+                    "text": "Live",
+                    "href": "https:"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Portfolio",
+                "JavaScript"
+            ]
+        },
+        {
+            "image" : "images/projects/flatmate.png",
+            "title": "FlatMate -  Expense tracker App",
+            "bodyText": "- A Expense tracker web app made using MERN stack  for Students living under same roof.\n - Added User authentication and password reset using mail verivication\n -  Private expense is oly shown to the user.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/gokuljayavel/Flatmate-Expense-Tracker"
+                }
+            ],
+            "tags" : [
+                "Node",
+                "React",
+                "SAAS",
+                "SendGrid",
+                "MongoDB",
+                "Heroku"
+            ]
+        },
+        
+        {
+            "title": "Task Tracker -frontend",
+            "bodyText": "- A simple Task Tracker web app made with **React**.\n - Used redux.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/gokuljayavel/todo-app-frontend"
+                }
+            ],
+            "tags" : [
+                "Javascript",
+                "React",
+                "HTML",
+                "SAAS"
+            ]
+        },
+        {
+            "title": "Task Tracker -backend",
+            "bodyText": "- A simple Task Tracker web app backend made with **Node server**.\n ",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/gokuljayavel/todo-app-backend"
+                }
+            ],
+            "tags" : [
+                "Javascript",
+                "Node",
+                "Mongodb",
+                "mongoose"
+            ]
+        },
+        {
+            "title": "E-Kart -frontend",
+            "bodyText": "- A e-commerce application built to  sell the electronic gadgets.**Angular**.\n  ",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/gokuljayavel/todo-app-frontend"
+                }
+            ],
+            "tags" : [
+                "Typescript",
+                "Angular",
+                "HTML",
+                "CSS"
+            ]
+        },
+        {
+            "title": "E-Kart -backend",
+            "bodyText": " - A e-commerce application built to  sell the electronic gadgets.**Spring Boot**.\n- SQL is used as database\n - ",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/gokuljayavel/backend-ekart-aplication"
+                }
+            ],
+            "tags" : [
+                "Maven",
+                "Spring Boot",
+                "Java",
+                "SQL"
+            ]
+        }
+    ]
+}

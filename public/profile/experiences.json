@@ -1,0 +1,34 @@
+{
+    "experiences": [
+        {
+            "title": "Specialist Programmer",
+            "subtitle": "Infosys Ltd",
+            "workType": "Full-time",
+            "workDescription": [
+                " Devised a self-service portal for Verizon using JMS and Angular to improve user experience by decreasing remission to 0.05 seconds.",
+                "Designed Redis Cache and implemented for reducing latency in responding time",
+                "Developed a microservice for Caching purpose."
+            ],
+            "dateText": "11/2020 – 08/2022"
+        },
+        {
+            "title": "Python Trainer",
+            "subtitle": "Adventure Technology Solutions PVT. LTD",
+            "workType": "Full-time",
+            "workDescription": [
+                "Trained Students in Aptitude, Python, and competitive Coding"
+            ],
+            "dateText": "05/2020 –11/2020"
+        },
+        {
+            "title": "Member Technical Staff",
+            "subtitle": "ZOHO Corporation",
+            "workType": "Internship",
+            "workDescription": [
+                "Learned Core Java and Different Communication Protocols",
+                "Developed a Chat Application using UDP and Multi-threading."
+            ],
+            "dateText": "09/20XX – 01/20YY"
+        }
+    ]
+}
