@@ -1,13 +1,24 @@
 {
     "experiences": [
         {
+            "title": "Teaching Assistant",
+            "subtitle": "Northeastern University",
+            "workType": "Part-time",
+            "workDescription": [
+                "Assist in lecture delivery and creating course materials covering algorithm complexity, data structures",
+                "Provide students with feedback and explain complex concepts to enhance their understanding of different Algorithms"
+            ],
+            "dateText": "05/2023 – 08/2023"
+        },
+        {
             "title": "Specialist Programmer",
             "subtitle": "Infosys Ltd",
             "workType": "Full-time",
             "workDescription": [
-                " Devised a self-service portal for Verizon using JMS and Angular to improve user experience by decreasing remission to 0.05 seconds.",
-                "Designed Redis Cache and implemented for reducing latency in responding time",
-                "Developed a microservice for Caching purpose."
+                "Utilized Springboot microservice and Angular to design and developed a self-service portal for Verizon, enhancing user experience by reducing latency to 0.05 seconds.",
+                "Enhanced existing messaging brokers by integrating new features for service calls to a newly added Kafka broker, improving large- scale distributed service functionality",
+                "Developed a microservice for caching and designed Redis Cache, significantly lowering response time delay.",
+                "Automated the process of updating Oracle databases using Shell script and written unit testcase using Junit and Mockito"
             ],
             "dateText": "11/2020 – 08/2022"
         },
@@ -28,7 +39,7 @@
                 "Learned Core Java and Different Communication Protocols",
                 "Developed a Chat Application using UDP and Multi-threading."
             ],
-            "dateText": "09/20XX – 01/20YY"
+            "dateText": "03/2020 – 04/2020"
         }
     ]
 }

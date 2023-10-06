@@ -11,7 +11,7 @@
                 },
                 {
                     "text": "Live",
-                    "href": "https://gokul-jayavel.netlify.app/"
+                    "href": "https://gokul-jayavel.azurewebsites.net/"
                 }
             ],
             "tags" : [
@@ -34,9 +34,75 @@
                 "Node",
                 "React",
                 "SAAS",
-                "SendGrid",
+                "JavaScript",
                 "MongoDB",
                 "Heroku"
+            ]
+        },
+
+        {
+            "image" : "images/projects/ProManage.png",
+            "title": "ProManage",
+            "bodyText": "- Built a Project Management tool for tracking project status and individual stories\n - Used JWT for user authentication, alongside Scheduler for auto-notifications\n - Delivered monthly performance reports and story reminders via email and Implemented role-based access",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/gokuljayavel/Project-management-tool"
+                }
+            ],
+            "tags" : [
+                "Java",
+                "Springboot",
+                "JWT",
+                "React",
+                "Redux",
+                "MySQL",
+                "Swagger",
+                "Hibernate"
+            ]
+        },
+
+
+        {
+            "image" : "images/projects/Studysidekick.png",
+            "title": "Studysidekick.ai",
+            "bodyText": "-  Studysidekick.ai offers custom study plans with daily topics, assignments, and quizzes based on user's availability and course timeline.\n - Provides real-time guidance, mentorship, and doubt resolution for engaged and motivated learning.\n - Upon course completion, users earn a digital certificate as an NFT for validation and recognition of their achievements.",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/gokuljayavel/studysidekick.ai"
+                }
+            ],
+            "tags" : [
+                "Node",
+                "React",
+                "SAAS",
+                "JavaScript",
+                "Python",
+                "MongoDB",
+                "MaterialUI",
+                "NFT",
+                "Verbwire API",
+                "OpenAI API"
+            ]
+        },
+
+        {
+            "title": "InsurancePlan",
+            "bodyText": "- Built CRUD operations with Redis, used OAuth for login security, and JWT for session management\n - Integrated RabbitMQ for queuing and Elasticsearch for sending data to microservice and indexing data for faster data retrieval",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/gokuljayavel/InsurancePlan"
+                }
+            ],
+            "tags" : [
+                "Java",
+                "Springboot",
+                "JWT",
+                "OAUTH",
+                "RabbitMQ",
+                "ElasticSearch"
             ]
         },
         
@@ -90,7 +156,7 @@
         },
         {
             "title": "E-Kart -backend",
-            "bodyText": " - A e-commerce application built to  sell the electronic gadgets.**Spring Boot**.\n- SQL is used as database\n - ",
+            "bodyText": " - A e-commerce application built to  sell the electronic gadgets.**Spring Boot**.\n- SQL is used as database\n",
             "links": [
                 {
                     "text": "GitHub",
