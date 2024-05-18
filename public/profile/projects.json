@@ -21,6 +21,40 @@
             ]
         },
         {
+            "title": "AssignmentPortal",
+            "bodyText": "- Deployed production-ready infrastructure utilizing Pulumi, including auto-scaling groups, load balancers, RDS database instances, and CloudWatch alarms across multiple AZs, achieving 99.99% uptime and horizontal scaling during peak traffic\n -  Facilitated a multi-cloud environment, leveraging SNS, Lambda and SES for submission handling and Stored in GCP Bucket\n - Developed shell scripts in computerizing process in GitHubActions & Packer for Ec2 instance helping save manual work by 90%",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/orgs/csye6225Gokul/repositories"
+                }
+            ],
+            "tags" : [
+                "AWS",
+                "GCP",
+                "Packer",
+                "Pulumi",
+                "Github Actions",
+                "IaC"
+            ]
+        },
+        {
+            "title": "Splitwise",
+            "bodyText": "-  A Expense tracker iOS app made using Swift for Students living under same roof.\n -  Utilized Node.js and CRON jobs to send monthly spending reports to users and notification when budget exceeded\n - Implemented individual sessions within the application, allowing groups to record and track their personal expenses, budgets",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/gokul-j99/splitwise"
+                }
+            ],
+            "tags" : [
+                "Swift",
+                "iOS",
+                "UIKit",
+                "Nodejs"
+            ]
+        },
+        {
             "image" : "images/projects/flatmate.png",
             "title": "FlatMate -  Expense tracker App",
             "bodyText": "- A Expense tracker web app made using MERN stack  for Students living under same roof.\n - Added User authentication and password reset using mail verivication\n -  Private expense is oly shown to the user.",

@@ -1,6 +1,17 @@
 {
     "experiences": [
         {
+            "title": "Software Engineer",
+            "subtitle": "Philips North America LLC",
+            "workType": "Internship",
+            "workDescription": [
+                "Developed features in an in-house configuration tool with C# and WPF to automate 30 minutes of configuration for the PICiX application.",
+                "Programmed a TCP call function to the server, executing every minute, with a manual timer to log responses",
+                "Versioned the topology change and Reduced number of server calls therefore improved the performance of CareAssist App."
+            ],
+            "dateText": "01/2024 – 08/2024"
+        },
+        {
             "title": "Teaching Assistant",
             "subtitle": "Northeastern University",
             "workType": "Part-time",
@@ -8,7 +19,7 @@
                 "Assist in lecture delivery and creating course materials covering algorithm complexity, data structures",
                 "Provide students with feedback and explain complex concepts to enhance their understanding of different Algorithms"
             ],
-            "dateText": "05/2023 – 08/2023"
+            "dateText": "05/2023 – 12/2023"
         },
         {
             "title": "Specialist Programmer",
