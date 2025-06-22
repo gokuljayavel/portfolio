@@ -1,25 +1,22 @@
 {
     "projects" : [
-        {
-            "image" : "images/projects/portfolio-poster.png",
-            "title": "Dev Portfolio",
-            "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+            {
+            "title": "Kafka Server",
+            "bodyText": "- Developed a Custom Kafka Broker: Built a Kafka broker from scratch in Java, implementing core features like producer-consumer messaging, topic management, and message delivery guarantees, ensuring robust and fault-tolerant communication.\n - Optimized concurrency with a multithreaded server using ExecutorService, efficiently handling high-throughput connections with low latency",
             "links": [
                 {
                     "text": "GitHub",
-                    "href": "https://github.com/gokuljayavel/portfolio"
-                },
-                {
-                    "text": "Live",
-                    "href": "https://gokul-jayavel.azurewebsites.net/"
+                    "href": "https://github.com/gokul-j99/code-crafter-kafka"
                 }
             ],
             "tags" : [
-                "React",
-                "Portfolio",
-                "JavaScript"
+                "Distributed system",
+                "Kafka",
+                "Java",
+                "Concurrency"
             ]
         },
+    
         {
             "title": "AssignmentPortal",
             "bodyText": "- Deployed production-ready infrastructure utilizing Pulumi, including auto-scaling groups, load balancers, RDS database instances, and CloudWatch alarms across multiple AZs, achieving 99.99% uptime and horizontal scaling during peak traffic\n -  Facilitated a multi-cloud environment, leveraging SNS, Lambda and SES for submission handling and Stored in GCP Bucket\n - Developed shell scripts in computerizing process in GitHubActions & Packer for Ec2 instance helping save manual work by 90%",
@@ -71,6 +68,26 @@
                 "JavaScript",
                 "MongoDB",
                 "Heroku"
+            ]
+        },
+            {
+            "image" : "images/projects/portfolio-poster.png",
+            "title": "Dev Portfolio",
+            "bodyText": "- Developer Portfolio Website made in React\n -  Fully customisable and dynamic, easily change data and images.\n - Dark Mode Support",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/gokuljayavel/portfolio"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://gokul-jayavel.azurewebsites.net/"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Portfolio",
+                "JavaScript"
             ]
         },
 

@@ -1,6 +1,17 @@
 {
     "experiences": [
         {
+            "title": "Software Development Engineer",
+            "subtitle": "Philips North America LLC",
+            "workType": "Full-time",
+            "workDescription": [
+                "Resolved race conditions and deadlocks, enhanced thread safety and stability of the application, and wrote shell scripts in GitHub Actions to automate resource shutdown, reducing costs by 20%.",
+                "Implemented a centralized cache service using a WCF channel, decoupling caching from the provider.",
+                "Employed gRPC to dispatch real-time alarm notifications to the Alarm panel, accelerating notification delivery."
+            ],
+            "dateText": "12/2024 – Present"
+        },
+        {
             "title": "Software Engineer",
             "subtitle": "Philips North America LLC",
             "workType": "Internship",
@@ -9,10 +20,20 @@
                 "Programmed a TCP call function to the server, executing every minute, with a manual timer to log responses",
                 "Versioned the topology change and Reduced number of server calls therefore improved the performance of CareAssist App."
             ],
-            "dateText": "01/2024 – 08/2024"
+            "dateText": "01/2024 – 12/2024"
+        },
+              {
+            "title": "Graduate Teaching Assistant",
+            "subtitle": "Northeastern University",
+            "workType": "Part-time",
+            "workDescription": [
+                "Guided students through challenging Core Java concepts, OOP principles, enhance student understanding",
+                "Introduced GitHub Actions for automated grading, enhancing code review efficiency"
+            ],
+            "dateText": "09/2024 – 12/2024"
         },
         {
-            "title": "Teaching Assistant",
+            "title": "Graduate Teaching Assistant",
             "subtitle": "Northeastern University",
             "workType": "Part-time",
             "workDescription": [
